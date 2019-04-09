@@ -5,7 +5,7 @@ public class assignment1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		Drawingpanel panel = new Drawingpanel(500, 500);
+	Drawingpanel panel = new Drawingpanel(500, 500);
         Graphics g = panel.getGraphics();
         // Set background color to yellow
         panel.setBackground(Color.YELLOW);
